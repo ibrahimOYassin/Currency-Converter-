@@ -1,0 +1,12 @@
+C:\Users\ibrah\Desktop\JobAPI\CurrencyConverter.Application\bin\Debug\net8.0\CurrencyConverter.Application.deps.json
+C:\Users\ibrah\Desktop\JobAPI\CurrencyConverter.Application\bin\Debug\net8.0\CurrencyConverter.Application.dll
+C:\Users\ibrah\Desktop\JobAPI\CurrencyConverter.Application\bin\Debug\net8.0\CurrencyConverter.Application.pdb
+C:\Users\ibrah\Desktop\JobAPI\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.csproj.AssemblyReference.cache
+C:\Users\ibrah\Desktop\JobAPI\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\Desktop\JobAPI\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.AssemblyInfoInputs.cache
+C:\Users\ibrah\Desktop\JobAPI\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.AssemblyInfo.cs
+C:\Users\ibrah\Desktop\JobAPI\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\JobAPI\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.dll
+C:\Users\ibrah\Desktop\JobAPI\CurrencyConverter.Application\obj\Debug\net8.0\refint\CurrencyConverter.Application.dll
+C:\Users\ibrah\Desktop\JobAPI\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.pdb
+C:\Users\ibrah\Desktop\JobAPI\CurrencyConverter.Application\obj\Debug\net8.0\ref\CurrencyConverter.Application.dll

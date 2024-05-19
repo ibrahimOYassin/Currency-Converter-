@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OH6wY6D5L0F7d1beI3FX8/9rIcHiHroxWtWJaHo247nV50t4NHHHbmAOYlmVD6Sr4GEKtM9YF4fIjMgJZopKdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ibrah\\Desktop\\JobAPI\\CurrencyConverter.Application\\CurrencyConverter.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ibrah\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
