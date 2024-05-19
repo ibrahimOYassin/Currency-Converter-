@@ -1,4 +1,5 @@
 
+
 # CurrencyConverterSolution
 
 This solution consists of two projects:
@@ -143,11 +144,11 @@ Response:
 ### Enhancements
 Given more time, we could consider the following enhancements:
 
-1-**Improved Error Handling:** Add more granular error handling and custom error messages.
-2- **Caching:** Implement caching for exchange rates to reduce the number of requests to the Frankfurter API.
-3- **Rate Limiting:** Implement rate limiting to prevent overloading the Frankfurter API.
-4- **CI/CD Pipeline:** Set up a CI/CD pipeline for automated testing and deployment.
-5- **Swagger Documentation:** Add Swagger for better API documentation and testing.
-6- **Logging:** Implement comprehensive logging for better diagnostics and monitoring.
-7- **Docker Support:** Add Docker support for containerized deployment.
-8- **Authentication and Authorization:** Implement security features to restrict access to the API.
+ 1. **Improved Error Handling:** Add more granular error handling and custom error messages.
+ 2. **Caching:** Implement caching for exchange rates to reduce the number of requests to the Frankfurter API.
+ 3. **Rate Limiting:** Implement rate limiting to prevent overloading the Frankfurter API.
+ 4. **CI/CD Pipeline:** Set up a CI/CD pipeline for automated testing and deployment.
+ 5. **Swagger Documentation:** Add Swagger for better API documentation and testing.
+ 6. **Logging:** Implement comprehensive logging for better diagnostics and monitoring.
+ 7. **Docker Support:** Add Docker support for containerized deployment.
+ 8. **Authentication and Authorization:** Implement security features to restrict access to the API.
